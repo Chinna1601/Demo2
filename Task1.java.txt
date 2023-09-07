@@ -1,0 +1,5 @@
+Public Class Task1{
+public static void main(String, abc){
+System.out.println("Hello");
+}
+}
